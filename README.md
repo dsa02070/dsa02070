@@ -5,6 +5,8 @@
 - 추후 자바스크립트와 vue.js 공부를 예정하고 있습니다.
 - 감사합니다. ✨👏
 
+- E-mail : dsa02070@naver.com
+
 <!---
 dsa02070/dsa02070 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
